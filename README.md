@@ -11,7 +11,7 @@ _DevOps Engineer from PT 🇵🇹, based in Koblenz, DE 🇩🇪_ <br>
 - Led the migration from Bamboo to GitLab CI/CD, ensuring a seamless migration.
 - Drove DevOps practices, enhancing collaboration, and automating processes.
 - Kubernetes on EKS
-- Implemented monitoring solutions using Prometheus, Loki, and Grafana for effective performance tracking and analysis.
+- Implemented monitoring solutions using Prometheus, Loki, and Grafana for effective performance tracking and analysis.  
 **_Technologies used:_** Kubernetes, Docker, AWS, Terraform, Gitlab CI/CD, Shell scripting, Ansible.
 <br><br>
 
