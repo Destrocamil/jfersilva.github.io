@@ -11,6 +11,7 @@ At work, I'm all about teamwork, competence, and dedication—I'm always strivin
 In social settings, you'll find me as the funny and talkative one, always up for teamwork and cooperation. I'm all about that team spirit!  
 On a personal note, my server might need some maintenance (aren't we all a work in progress?). But hey, I'm always up for a good chat, a nice dinner, or a leisurely walk.  
 Oh, and let's talk hobbies! I'm a big fan of cycling, football, and e-Sports—count me in for all the excitement!
+<br><br>
 ##  Core skills
 - Amazon Web Services (AWS)
 - Networking
@@ -22,6 +23,7 @@ Oh, and let's talk hobbies! I'm a big fan of cycling, football, and e-Sports—c
 - Docker, Docker-compose, Docker Swarm
 - Kubernetes
 - Atlassian tools
+<br><br>
 ## 👩🏼‍💻 Work Experience
 
 **DevOps Engineer** @[Elgato](https://elgato.com/) _(2022 - Present)_ <br>
