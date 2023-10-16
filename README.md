@@ -12,11 +12,12 @@ In social settings, you'll find me as the funny and talkative one, always up for
 On a personal note, my server might need some maintenance (aren't we all a work in progress?). But hey, I'm always up for a good chat, a nice dinner, or a leisurely walk.  
 Oh, and let's talk hobbies! I'm a big fan of cycling, football, and e-Sports—count me in for all the excitement!
 <br><br>
+
 ##  Core skills
 - Amazon Web Services (AWS)
 - Networking
 - Shell scripting: Bash and Python
-- Fastlane
+- Build tools such as Gradle, Maven, Just and Fastlane
 - Ansible and Terraform
 - Continuous Integration/Continuous Deployment (CI/CD) with Bamboo and GitLab
 - Virtualization with Proxmox and VM-Ware
@@ -24,6 +25,7 @@ Oh, and let's talk hobbies! I'm a big fan of cycling, football, and e-Sports—c
 - Kubernetes
 - Atlassian tools
 <br><br>
+
 ## 👩🏼‍💻 Work Experience
 
 **DevOps Engineer** @[Elgato](https://elgato.com/) _(2022 - Present)_ <br>
@@ -66,12 +68,14 @@ In addition to content and information management, I served as a test subject fo
 <br><br>
 
 ##  👨‍🎓 Education
-**SWitCH @ISEP** @[SWitCH](https://portotechhub.com/switch/switch-dev/) _(2018- 2019)_ <br>
-Scrum-based approach. Many teams with a common goal: develop a smart home management application, from bottom to top.
-- OOP w/ Java
-- TDD w/ Junit
-- React
-- DevOps w/ Docker, Jenkins, Gradle, Maven, Virtualization, Ansible. 
+**Software Development Post-graduation - SWitCH** @[SWitCH](https://portotechhub.com/switch/switch-dev/) _(2018- 2019)_ <br>
+SWitCH is a requalication programme that is aimed for software development to learn software development skills through interactive learning and agile methodologies in a 
+scrum-based approach. Many teams with a common goal: develop a smart home management application.
+- Interactive agile software development
+- Computing systems and networks
+- Databases
+- Web programming and SOA
+- DevOps
 <br><br>
 
 **Information Science degree @FEUPxFLUP** @[FLUP]([https://fabamaq.com/](https://sigarra.up.pt/flup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=454)) _(2013 - 2017)_ <br>
